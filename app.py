@@ -294,6 +294,6 @@ if uploaded_file:
 
 st.markdown("""
     <div class='footer'>
-        <p class='footer-text'>Made by Pravar Golecha</p>
+        <p class='footer-text'>Made by Zivantika Singh</p>
     </div>
 """, unsafe_allow_html=True)
