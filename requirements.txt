@@ -5,3 +5,4 @@ tensorflow==2.9.1
 numpy==1.23.5
 shutil
 scikit-learn==1.2.2
+keras
