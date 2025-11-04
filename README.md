@@ -3,7 +3,7 @@
 SmartWasteAI - Computer Vision-based Waste Segregation System
 1. Project Overview
 This project,
- https://iada-201-2405744--zivantikasingh-phkjjvelkmxgacvfrgurwf.streamlit.app/
+https://iada-201-2405744--zivantikasingh-ahha22u6mfbucwmdsefce8.streamlit.app/
 
 SmartWasteAI, develops an intelligent image-based waste classification system for EcoLogic Solutions, a smart city tech startup. The primary goal is to address the major challenge of 
 
